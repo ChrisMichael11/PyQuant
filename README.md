@@ -1,5 +1,5 @@
 # PyQuant
-## Figuring out Python and Quant Finance
+## Quant Finance in Python
 
 Using Python for Finance, Analyze Big Financial Data
 
@@ -12,7 +12,10 @@ Print ISBN:978-1-4919-4528-5 | ISBN 10:1-4919-4528-1
 Image Courtesy of:  http://shop.oreilly.com/product/0636920032441.do?sortby=publicationDate
 
 ## Intro / Objective
+Following "Python for Finance" by Yves Hilpsich, digging into financial analysis.
 
+After exploring the book, I will implement strategies on Quantopian and maintain
+my code here.
 
 ##  Data
 
